@@ -1,2 +1,3 @@
 # UHDdos
-Best DDoS Attack Script 
+DDoS Attack Python Script 
+Attak type UDP / TCP
